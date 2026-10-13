@@ -127,3 +127,29 @@ figure svg {
     grid-row: auto;
   }
 }
+
+#sessao {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+#usuario {
+  margin: 0;
+  color: var(--texto-suave);
+}
+
+#sair {
+  padding: 6px 14px;
+  color: var(--texto);
+  background: transparent;
+  border: 1px solid var(--borda);
+}
+
+@media (min-width: 561px) {
+  form {
+    grid-template-columns: 1fr auto;
+  }
+}
