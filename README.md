@@ -44,4 +44,4 @@ Variável de ambiente: `GOOGLE_CLIENT_ID` com o Client ID do OAuth Client (Web a
 
 Nome: Vinicius Kichel Derganho
 RA: 2026107869
-URL: https://
+URL: https://desenho-assinado-vinicius.pages.dev
